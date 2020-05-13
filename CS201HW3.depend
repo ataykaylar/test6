@@ -1,0 +1,21 @@
+# depslib dependency file v1.0
+1589396441 source:c:\cs201\assignment 3\cs201hw3\main.cpp
+	<iostream>
+	"SimpleReg.h"
+	"SimpleTeam.h"
+	<iostream>
+
+1589396654 source:c:\cs201\assignment 3\cs201hw3\simplereg.cpp
+	"SimpleReg.h"
+	<iostream>
+
+1589376544 c:\cs201\assignment 3\cs201hw3\simplereg.h
+	<string>
+	"SimpleTeam.h"
+
+1589327948 c:\cs201\assignment 3\cs201hw3\simpleteam.h
+	<string>
+
+1589327988 source:c:\cs201\assignment 3\cs201hw3\simpleteam.cpp
+	"SimpleTeam.h"
+
